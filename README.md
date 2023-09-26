@@ -5,4 +5,4 @@ When I first started learning programming I read a lot of "the JS Way" and even 
 
 ## Favorite Commit:
 
-https://github.com/JulienMellon/jsrepo/commit/7ae3fcdd08fc94d785dd91389e049c2ffe86350d
+[Chapter 3](https://github.com/JulienMellon/jsrepo/commit/7ae3fcdd08fc94d785dd91389e049c2ffe86350d)
